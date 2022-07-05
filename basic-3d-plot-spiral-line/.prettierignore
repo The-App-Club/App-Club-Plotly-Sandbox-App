@@ -1,0 +1,6 @@
+node_modules*
+.gitignore
+.prettierignore
+.stylelintignore
+image
+yarn.lock

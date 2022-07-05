@@ -1,0 +1,9 @@
+- Reference
+  - [conic-gradient](https://developer.mozilla.org/ja/docs/Web/CSS/gradient/conic-gradient)
+  - [turf-angle](https://github.com/Turfjs/turf/tree/master/packages/turf-angle)
+  - [arrowLine](https://editor.p5js.org/morfant/sketches/8inwzkbBb)
+  - [linearGradientFill](https://editor.p5js.org/osteele/sketches/RDvpZ_QVR)
+  - [create-conical-gradient](https://www.npmjs.com/package/create-conical-gradient)
+  - [how-to-lerp-between-two-angles](https://godotengine.org/qa/5770/how-to-lerp-between-two-angles)
+  - [how-do-i-lerp-between-values-that-loop-such-as-hue-or-rotation](https://gamedev.stackexchange.com/questions/72348/how-do-i-lerp-between-values-that-loop-such-as-hue-or-rotation)
+  - [babylon.scalar](https://doc.babylonjs.com/typedoc/classes/babylon.scalar)

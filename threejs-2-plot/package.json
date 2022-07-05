@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview",
+    "format": "prettier --write \"{,!(node_modules|dist|build)/**/}*.*\"",
+    "lint": "stylelint --fix \"{,!(node_modules|dist|build)/**/}*.css*\" \"{,!(node_modules|dist|build)/**/}*.scss*\""
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-prettier": "^9.0.2",
+    "stylelint-config-recommended-scss": "^4.3.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.21.0",
+    "vite": "^2.3.0"
+  },
+  "dependencies": {
+    "three": "^0.135.0",
+    "d3": "^7.1.1",
+    "d3-ease": "^3.0.1",
+    "d3-shape": "^3.0.1",
+    "d3-transform": "^1.0.5",
+    "plotly.js-dist-min": "^2.7.0",
+    "transformation-matrix": "^2.10.0"
+  }
+}
